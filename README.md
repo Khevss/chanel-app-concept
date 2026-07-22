@@ -28,4 +28,4 @@ Design a luxury mobile shopping experience that reflects Chanel's elegance while
 
 ## Status
 
-🚧 In Progress
+In Progress
