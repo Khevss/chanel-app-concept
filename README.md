@@ -1,31 +1,39 @@
-# Chanel App Concept
+# Chanel Fashion App UX/UI Redesign
 
-A UI/UX concept project imagining the future mobile experience for Chanel.
+## Overview
+This project is a UX/UI redesign concept for the Chanel Fashion mobile application. The redesign focuses on improving usability while maintaining Chanel's luxury identity.
 
-This project is created for educational and portfolio purposes only. Chanel is a registered trademark of Chanel.
+## Problem
+The existing app contains too much information on the home screen, making navigation overwhelming. It also lacks several modern shopping and personalization features.
 
-## Objective
+## Solution
+The redesign introduces:
+- Cleaner home page
+- Personalized recommendations
+- Improved product browsing
+- Wishlist
+- Product comparison
+- Boutique appointment booking
+- AI Style Assistant
+- Apple Pay & Google Pay
+- Community features (Podcasts, Events, Rewards)
 
-Design a luxury mobile shopping experience that reflects Chanel's elegance while improving usability, accessibility and customer engagement.
+## UX Process
+- Research
+- Competitor Analysis
+- User Personas
+- User Journey Map
+- Information Architecture
+- Low-Fidelity Wireframes
+- High-Fidelity UI
+- Interactive Prototype
 
 ## Tools
-
 - Figma
-- FigJam
 - GitHub
 
-## Process
+## Prototype
+https://www.figma.com/proto/7S8HSZjTg9u4W0PgrQpSCP/Chanel-App-Concept
 
-- UX Research
-- User Personas
-- Competitive Analysis
-- Information Architecture
-- User Flow
-- Wireframes
-- High Fidelity UI
-- Prototype
-- Accessibility Review
-
-## Status
-
-In Progress
+## Designer
+Khevss
